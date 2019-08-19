@@ -4,7 +4,7 @@ This repository contains my Advent of Code solutions. I have achieved all 200 st
 
 ## Blogs
 
-* [Thoughts on Advent of Code 2018](https://www.lonesomecrowdedweb.com/blog/advent-of-code-2018) (2019/02/10)
+* [Thoughts on Advent of Code 2018](https://www.lonesomecrowdedweb.com/blog/advent-of-code-2018/) (2019/02/10)
 
 ## Solutions
 
@@ -120,8 +120,8 @@ The solutions below are neither elegant, performant nor interesting. They are "s
 | 13: Mine Cart Madness | [Part 1](/2018/13-1.linq)<br>[Part 2](/2018/13-2.linq) |
 | 14: Chocolate Charts | [Part 1](/2018/14-1.linq)<br>[Part 2](/2018/14-2.linq) |
 | 15: Beverage Bandits | [Part 1](/2018/15-1.linq)<br>[Part 2](/2018/15-2.linq) |
-| 16: Chronal Classification | [Part 1](/2018/16-1.linq)<br>[Part 2](/2018/16-2.linq) |
-| 17: Reservoir Research | [Part 1](/2018/17.linq)<br>[Part 2](/2018/17.linq) |
+| 16: Chronal Classification | [Part 1](/2018/16-1.linq)<br>[Part 2](/2018/16-2b.linq) |
+| 17: Reservoir Research | [Part 1](/2018/17.linq) |
 | 18: Settlers of The North Pole | [Part 1](/2018/18-1.linq)<br>[Part 2](/2018/18-2.linq) |
 | 19: Go With The Flow | [Part 1](/2018/19-1.linq)<br>[Part 2](/2018/19-2.linq) |
 | 20: A Regular Map | [Part 1](/2018/20.linq) |
