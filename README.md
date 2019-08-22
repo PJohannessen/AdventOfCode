@@ -4,6 +4,7 @@ This repository contains my Advent of Code solutions. I have achieved all 200 st
 
 ## Blogs
 
+* [Catching Up on Advent of Code](https://www.lonesomecrowdedweb.com/blog/catching-up-on-advent-of-code/) (2019/08/22)
 * [Thoughts on Advent of Code 2018](https://www.lonesomecrowdedweb.com/blog/advent-of-code-2018/) (2019/02/10)
 
 ## Solutions
