@@ -1,6 +1,6 @@
 # Advent of Code
 
-This repository contains my Advent of Code solutions. I have achieved all 200 stars in all current events (up to 2018).
+This repository contains my [Advent of Code](https://adventofcode.com/) solutions. I have achieved all 200 stars in all previous events and am currently participating in the 2019 event.
 
 ## Blogs
 
@@ -9,7 +9,7 @@ This repository contains my Advent of Code solutions. I have achieved all 200 st
 
 ## Solutions
 
-The solutions below are neither elegant, performant nor interesting. They are "solve and forget", with no cleanup done afterwards to make the solutions more readable or efficient. I have completed them in C# using the wonderful [LINQPad](https://www.linqpad.net/) as my IDE.
+The solutions below are neither elegant, performant nor particularly interesting. They are "solve and forget", with no clean-up done afterwards to make the solutions more readable or efficient. I have completed them in C# using the wonderful [LINQPad](https://www.linqpad.net/) as my IDE.
 
 ### 2015
 
@@ -131,3 +131,10 @@ The solutions below are neither elegant, performant nor interesting. They are "s
 | 23: Experimental Emergency Teleportation | [Part 1](/2018/23-1.linq)<br>[Part 2](/2018/23-2.linq) |
 | 24: Immune System Simulator 20XX | [Part 1](/2018/24.linq)<br>[Part 2](/2018/24.linq) |
 | 25: Four-Dimensional Adventure | [Part 1](/2018/25.linq) |
+
+### 2019
+
+| Day | C# |
+|---|---|
+| 1: The Tyranny of the Rocket Equation | [Parts 1 & 2](/2019/1.linq) |
+| 2: TBA | TBC |
