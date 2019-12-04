@@ -139,4 +139,5 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 1: The Tyranny of the Rocket Equation | [Parts 1 & 2](/2019/1.linq) |
 | 2: 1202 Program Alarm | [Parts 1 & 2](/2019/2.linq) |
 | 3: Crossed Wires | [Parts 1 & 2](/2019/3.linq) |
-| 4: TBA | TBC |
+| 4: Secure Container | [Parts 1 & 2](/2019/4.linq) |
+| 5: TBA | TBC |
