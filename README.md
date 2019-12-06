@@ -141,4 +141,5 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 3: Crossed Wires | [Parts 1 & 2](/2019/3.linq) |
 | 4: Secure Container | [Parts 1 & 2](/2019/4.linq) |
 | 5: Sunny with a Chance of Asteroids | [Parts 1 & 2](/2019/5.linq) |
-| 6: TBA | TBC |
+| 6: Universal Orbit Map | [Parts 1 & 2](/2019/6.linq) |
+| 7: TBA | TBC |
