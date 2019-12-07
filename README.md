@@ -142,4 +142,5 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 4: Secure Container | [Parts 1 & 2](/2019/4.linq) |
 | 5: Sunny with a Chance of Asteroids | [Parts 1 & 2](/2019/5.linq) |
 | 6: Universal Orbit Map | [Parts 1 & 2](/2019/6.linq) |
-| 7: TBA | TBC |
+| 7: Amplification Circuit | [Parts 1 & 2](/2019/7.linq) |
+| 8: TBA | TBC |
