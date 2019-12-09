@@ -143,4 +143,6 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 5: Sunny with a Chance of Asteroids | [Parts 1 & 2](/2019/5.linq) |
 | 6: Universal Orbit Map | [Parts 1 & 2](/2019/6.linq) |
 | 7: Amplification Circuit | [Parts 1 & 2](/2019/7.linq) |
-| 8: TBA | TBC |
+| 8: Space Image Format | [Parts 1 & 2](/2019/8.linq) |
+| 9: Sensor Boost | [Parts 1 & 2](/2019/9.linq) |
+| 10: TBA | TBC |
