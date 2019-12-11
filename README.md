@@ -146,4 +146,5 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 8: Space Image Format | [Parts 1 & 2](/2019/8.linq) |
 | 9: Sensor Boost | [Parts 1 & 2](/2019/9.linq) |
 | 10: Monitoring Station | [Parts 1 & 2](/2019/10.linq) |
-| 11: TBA | TBC |
+| 11: Space Police | [Parts 1 & 2](/2019/11.linq) |
+| 12: TBA | TBC |
