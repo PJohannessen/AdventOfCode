@@ -147,4 +147,7 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 9: Sensor Boost | [Parts 1 & 2](/2019/9.linq) |
 | 10: Monitoring Station | [Parts 1 & 2](/2019/10.linq) |
 | 11: Space Police | [Parts 1 & 2](/2019/11.linq) |
-| 12: TBA | TBC |
+| 12: The N-Body Problem | [Parts 1 & 2](/2019/12.linq) |
+| 13: Care Package | [Parts 1 & 2](/2019/13.linq) |
+| 14: TBA | TBC |
+
