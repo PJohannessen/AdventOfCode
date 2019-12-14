@@ -149,5 +149,5 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 11: Space Police | [Parts 1 & 2](/2019/11.linq) |
 | 12: The N-Body Problem | [Parts 1 & 2](/2019/12.linq) |
 | 13: Care Package | [Parts 1 & 2](/2019/13.linq) |
-| 14: TBA | TBC |
-
+| 14: Space Stoichiometry | [Parts 1 & 2](/2019/14.linq) |
+| 15: TBA | TBC |
