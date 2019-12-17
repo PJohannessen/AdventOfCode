@@ -150,4 +150,7 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 12: The N-Body Problem | [Parts 1 & 2](/2019/12.linq) |
 | 13: Care Package | [Parts 1 & 2](/2019/13.linq) |
 | 14: Space Stoichiometry | [Parts 1 & 2](/2019/14.linq) |
-| 15: TBA | TBC |
+| 15: Oxygen System | [Parts 1 & 2](/2019/15.linq) |
+| 16: Flawed Frequency Transmission | [Parts 1 & 2](/2019/16.linq) |
+| 17: Set and Forget | [Parts 1 & 2](/2019/17.linq) |
+| 18: TBA | TBC |
