@@ -155,4 +155,5 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 17: Set and Forget | [Parts 1 & 2](/2019/17.linq) |
 | 18: Many-Worlds Interpretation | [Part 1](/2019/18-1.linq)<br>[Part 2](/2019/18-2.linq) |
 | 19: Tractor Beam | [Parts 1 & 2](/2019/19.linq) |
-| 20: TBA | TBC |
+| 20: Donut Maze | [Part 1](/2019/20-1.linq)<br>[Part 2](/2019/20-2.linq) |
+| 21: TBA | TBC |
