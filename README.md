@@ -156,4 +156,7 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 18: Many-Worlds Interpretation | [Part 1](/2019/18-1.linq)<br>[Part 2](/2019/18-2.linq) |
 | 19: Tractor Beam | [Parts 1 & 2](/2019/19.linq) |
 | 20: Donut Maze | [Part 1](/2019/20-1.linq)<br>[Part 2](/2019/20-2.linq) |
-| 21: TBA | TBC |
+| 21: Springdroid Adventure | [Parts 1 & 2](/2019/21.linq) |
+| 22: Slam Shuffle | [Part 1](/2019/22-1.linq)<br>[Part 2](/2019/22-2.linq) |
+| 23: Category Six | [Parts 1 & 2](/2019/23.linq) |
+| 24: TBA | TBC |
