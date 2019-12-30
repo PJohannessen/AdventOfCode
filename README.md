@@ -1,9 +1,10 @@
 # Advent of Code
 
-This repository contains my [Advent of Code](https://adventofcode.com/) solutions. I have achieved all 200 stars in all previous events and am currently participating in the 2019 event.
+This repository contains my [Advent of Code](https://adventofcode.com/) solutions. I have achieved all 250 stars that are currently available.
 
 ## Blogs
 
+* [Wrapping up Advent of Code 2019](https://www.lonesomecrowdedweb.com/blog/advent-of-code-2019/) (2019/12/26) 
 * [Catching Up on Advent of Code](https://www.lonesomecrowdedweb.com/blog/catching-up-on-advent-of-code/) (2019/08/22)
 * [Thoughts on Advent of Code 2018](https://www.lonesomecrowdedweb.com/blog/advent-of-code-2018/) (2019/02/10)
 
@@ -159,4 +160,5 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 21: Springdroid Adventure | [Parts 1 & 2](/2019/21.linq) |
 | 22: Slam Shuffle | [Part 1](/2019/22-1.linq)<br>[Part 2](/2019/22-2.linq) |
 | 23: Category Six | [Parts 1 & 2](/2019/23.linq) |
-| 24: TBA | TBC |
+| 24: Planet of Discord | [Part 1](/2019/24-1.linq)<br>[Part 2](/2019/24-2.linq) |
+| 25: Cryostasis | [Parts 1 & 2](/2019/25.linq) |
