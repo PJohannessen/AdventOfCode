@@ -12,6 +12,13 @@ This repository contains my [Advent of Code](https://adventofcode.com/) solution
 
 The solutions below are neither elegant, performant nor particularly interesting. They are "solve and forget", with no clean-up done afterwards to make the solutions more readable or efficient. I have completed them in C# using the wonderful [LINQPad](https://www.linqpad.net/) as my IDE.
 
+- [2015](#2015)
+- [2016](#2016)
+- [2017](#2017)
+- [2018](#2018)
+- [2019](#2019)
+- [2020](#2020)
+
 ### 2015
 
 | Day                                       | C#                                                     |
@@ -164,30 +171,30 @@ The solutions below are neither elegant, performant nor particularly interesting
 
 ### 2020
 
-| Day              | C#                          |
-| ---------------- | --------------------------- |
-| 1: Report Repair | [Parts 1 & 2](/2020/1.linq) |
-| 2: ?             | TBC                         |
-| 3: ?             | TBC                         |
-| 4: ?             | TBC                         |
-| 5: ?             | TBC                         |
-| 6: ?             | TBC                         |
-| 7: ?             | TBC                         |
-| 8: ?             | TBC                         |
-| 9: ?             | TBC                         |
-| 10: ?            | TBC                         |
-| 11: ?            | TBC                         |
-| 12: ?            | TBC                         |
-| 13: ?            | TBC                         |
-| 14: ?            | TBC                         |
-| 15: ?            | TBC                         |
-| 16: ?            | TBC                         |
-| 17: ?            | TBC                         |
-| 18: ?            | TBC                         |
-| 19: ?            | TBC                         |
-| 20: ?            | TBC                         |
-| 21: ?            | TBC                         |
-| 22: ?            | TBC                         |
-| 23: ?            | TBC                         |
-| 24: ?            | TBC                         |
-| 25: ?            | TBC                         |
+| Day                    | C#                          |
+| ---------------------- | --------------------------- |
+| 1: Report Repair       | [Parts 1 & 2](/2020/1.linq) |
+| 2: Password Philosophy | [Parts 1 & 2](/2020/2.linq) |
+| 3: ?                   | TBC                         |
+| 4: ?                   | TBC                         |
+| 5: ?                   | TBC                         |
+| 6: ?                   | TBC                         |
+| 7: ?                   | TBC                         |
+| 8: ?                   | TBC                         |
+| 9: ?                   | TBC                         |
+| 10: ?                  | TBC                         |
+| 11: ?                  | TBC                         |
+| 12: ?                  | TBC                         |
+| 13: ?                  | TBC                         |
+| 14: ?                  | TBC                         |
+| 15: ?                  | TBC                         |
+| 16: ?                  | TBC                         |
+| 17: ?                  | TBC                         |
+| 18: ?                  | TBC                         |
+| 19: ?                  | TBC                         |
+| 20: ?                  | TBC                         |
+| 21: ?                  | TBC                         |
+| 22: ?                  | TBC                         |
+| 23: ?                  | TBC                         |
+| 24: ?                  | TBC                         |
+| 25: ?                  | TBC                         |

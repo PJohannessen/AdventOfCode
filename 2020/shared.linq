@@ -12,7 +12,7 @@ public static class Utils
 	public static int[] ParseInts(string file)
 	{
 		Directory.SetCurrentDirectory(Path.GetDirectoryName(Util.CurrentQueryPath));
-		var ints = File.ReadAllText("1.txt").Split("\r\n", StringSplitOptions.RemoveEmptyEntries).Select(i => int.Parse(i)).ToArray();
+		var ints = File.ReadAllText(file).Split("\r\n", StringSplitOptions.RemoveEmptyEntries).Select(i => int.Parse(i)).ToArray();
 		return ints;
 	}
 }
