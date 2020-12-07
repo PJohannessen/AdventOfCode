@@ -5,7 +5,7 @@ public static class Utils
 	public static string[] ParseStrings(string file)
 	{
 		Directory.SetCurrentDirectory(Path.GetDirectoryName(Util.CurrentQueryPath));
-		var strings = File.ReadAllText(file).Split("\r\n", StringSplitOptions.RemoveEmptyEntries).ToArray();
+		var strings = File.ReadAllText(file).Split("\r\n").ToArray();
 		return strings;
 	}
 	
