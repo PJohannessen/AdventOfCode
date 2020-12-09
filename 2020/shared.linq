@@ -15,6 +15,13 @@ public static class Utils
 		var ints = File.ReadAllText(file).Split("\r\n", StringSplitOptions.RemoveEmptyEntries).Select(i => int.Parse(i)).ToArray();
 		return ints;
 	}
+
+	public static long[] ParseLongs(string file)
+	{
+		Directory.SetCurrentDirectory(Path.GetDirectoryName(Util.CurrentQueryPath));
+		var longs = File.ReadAllText(file).Split("\r\n", StringSplitOptions.RemoveEmptyEntries).Select(i => long.Parse(i)).ToArray();
+		return longs;
+	}
 }
 
 public record Point

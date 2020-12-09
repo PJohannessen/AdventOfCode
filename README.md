@@ -181,7 +181,7 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 6: Custom Customs      | [Parts 1 & 2](/2020/6.linq)                          |
 | 7: Handy Haversacks    | [Parts 1 & 2](/2020/7.linq)                          |
 | 8: Handheld Halting    | [Parts 1 & 2](/2020/8.linq)                          |
-| 9: ?                   | TBC                                                  |
+| 9: Encoding Error      | [Parts 1 & 2](/2020/9.linq)                          |
 | 10: ?                  | TBC                                                  |
 | 11: ?                  | TBC                                                  |
 | 12: ?                  | TBC                                                  |
