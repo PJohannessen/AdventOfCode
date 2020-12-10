@@ -182,7 +182,7 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 7: Handy Haversacks    | [Parts 1 & 2](/2020/7.linq)                          |
 | 8: Handheld Halting    | [Parts 1 & 2](/2020/8.linq)                          |
 | 9: Encoding Error      | [Parts 1 & 2](/2020/9.linq)                          |
-| 10: ?                  | TBC                                                  |
+| 10: Adapter Array      | [Parts 1 & 2](/2020/10.linq)                         |
 | 11: ?                  | TBC                                                  |
 | 12: ?                  | TBC                                                  |
 | 13: ?                  | TBC                                                  |
