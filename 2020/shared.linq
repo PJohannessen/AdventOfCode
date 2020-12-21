@@ -2,10 +2,11 @@
 
 public static class Utils
 {
-	public static string[] ParseStrings(string file)
+	public static string[] ParseStrings(string file, bool removeEmpty = false)
 	{
 		Directory.SetCurrentDirectory(Path.GetDirectoryName(Util.CurrentQueryPath));
-		var strings = File.ReadAllText(file).Split("\r\n").ToArray();
+        var split = removeEmpty ? StringSplitOptions.RemoveEmptyEntries : StringSplitOptions.None;
+		var strings = File.ReadAllText(file).Split("\r\n", split).ToArray();
 		return strings;
 	}
 	
