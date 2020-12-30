@@ -171,30 +171,30 @@ The solutions below are neither elegant, performant nor particularly interesting
 
 ### 2020
 
-| Day                    | C#                                                   |
-| ---------------------- | ---------------------------------------------------- |
-| 1: Report Repair       | [Parts 1 & 2](/2020/1.linq)                          |
-| 2: Password Philosophy | [Parts 1 & 2](/2020/2.linq)                          |
-| 3: Toboggan Trajectory | [Parts 1 & 2](/2020/3.linq)                          |
-| 4: Passport Processing | [Part 1](/2020/4-1.linq)<br>[Part 2](/2020/4-2.linq) |
-| 5: Binary Boarding     | [Parts 1 & 2](/2020/5.linq)                          |
-| 6: Custom Customs      | [Parts 1 & 2](/2020/6.linq)                          |
-| 7: Handy Haversacks    | [Parts 1 & 2](/2020/7.linq)                          |
-| 8: Handheld Halting    | [Parts 1 & 2](/2020/8.linq)                          |
-| 9: Encoding Error      | [Parts 1 & 2](/2020/9.linq)                          |
-| 10: Adapter Array      | [Parts 1 & 2](/2020/10.linq)                         |
-| 11: ?                  | TBC                                                  |
-| 12: ?                  | TBC                                                  |
-| 13: ?                  | TBC                                                  |
-| 14: ?                  | TBC                                                  |
-| 15: ?                  | TBC                                                  |
-| 16: ?                  | TBC                                                  |
-| 17: ?                  | TBC                                                  |
-| 18: ?                  | TBC                                                  |
-| 19: ?                  | TBC                                                  |
-| 20: ?                  | TBC                                                  |
-| 21: ?                  | TBC                                                  |
-| 22: ?                  | TBC                                                  |
-| 23: ?                  | TBC                                                  |
-| 24: ?                  | TBC                                                  |
-| 25: ?                  | TBC                                                  |
+| Day                         | C#                                                     |
+| --------------------------- | ------------------------------------------------------ |
+| 1: Report Repair            | [Parts 1 & 2](/2020/1.linq)                            |
+| 2: Password Philosophy      | [Parts 1 & 2](/2020/2.linq)                            |
+| 3: Toboggan Trajectory      | [Parts 1 & 2](/2020/3.linq)                            |
+| 4: Passport Processing      | [Part 1](/2020/4-1.linq)<br>[Part 2](/2020/4-2.linq)   |
+| 5: Binary Boarding          | [Parts 1 & 2](/2020/5.linq)                            |
+| 6: Custom Customs           | [Parts 1 & 2](/2020/6.linq)                            |
+| 7: Handy Haversacks         | [Parts 1 & 2](/2020/7.linq)                            |
+| 8: Handheld Halting         | [Parts 1 & 2](/2020/8.linq)                            |
+| 9: Encoding Error           | [Parts 1 & 2](/2020/9.linq)                            |
+| 10: Adapter Array           | [Parts 1 & 2](/2020/10.linq)                           |
+| 11: Seating System          | [Parts 1 & 2](/2020/11.linq)                           |
+| 12: Rain Risk               | [Parts 1 & 2](/2020/12.linq)                           |
+| 13: Shuttle Search          | [Parts 1 & 2](/2020/13.linq)                           |
+| 14: Docking Data            | [Parts 1 & 2](/2020/14.linq)                           |
+| 15: Rambunctious Recitation | [Parts 1 & 2](/2020/15.linq)                           |
+| 16: Ticket Translation      | [Parts 1 & 2](/2020/16.linq)                           |
+| 17: Conway Cubes            | [Parts 1 & 2](/2020/17.linq)                           |
+| 18: Operation Order         | [Part 1](/2020/18-1.linq)<br>[Part 2](/2020/18-2.linq) |
+| 19: Monster Messages        | [Parts 1 & 2](/2020/19.linq)                           |
+| 20: Jurassic Jigsaw         | [Parts 1 & 2](/2020/20.linq)                           |
+| 21: Allergen Assessment     | [Parts 1 & 2](/2020/21.linq)                           |
+| 22: Crab Combat             | TBC                                                    |
+| 23: Crab Cups               | TBC                                                    |
+| 24: Lobby Layout            | TBC                                                    |
+| 25: Combo Breaker           | TBC                                                    |

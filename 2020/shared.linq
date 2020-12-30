@@ -24,20 +24,3 @@ public static class Utils
 		return longs;
 	}
 }
-
-public record Point
-{
-	public Point(int x, int y)
-	{
-		X = x;
-		Y = y;
-	}
-	
-	public int X { get; init; }
-	public int Y { get; init; }
-	
-	public int Distance(Point p2)
-	{
-		return Math.Abs(p2.X - X) + Math.Abs(p2.Y - Y);
-	}
-}
