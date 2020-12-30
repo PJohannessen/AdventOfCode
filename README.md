@@ -1,6 +1,6 @@
 # Advent of Code
 
-This repository contains my [Advent of Code](https://adventofcode.com/) solutions. I have achieved all 250 stars that are currently available and I am now participating in [Advent of Code 2020](https://adventofcode.com/2020)!
+This repository contains my [Advent of Code](https://adventofcode.com/) solutions. I have achieved all 300 stars that are currently available.
 
 ## Blogs
 
@@ -10,7 +10,7 @@ This repository contains my [Advent of Code](https://adventofcode.com/) solution
 
 ## Solutions
 
-The solutions below are neither elegant, performant nor particularly interesting. They are "solve and forget", with no clean-up done afterwards to make the solutions more readable or efficient. I have completed them in C# using the wonderful [LINQPad](https://www.linqpad.net/) as my IDE.
+The solutions below are neither elegant, performant nor particularly interesting. They are "solve and forget", with little clean-up done afterwards to make the solutions more readable or efficient. I have completed them in C# using the wonderful [LINQPad](https://www.linqpad.net/) as my IDE.
 
 - [2015](#2015)
 - [2016](#2016)
@@ -167,7 +167,7 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 22: Slam Shuffle                      | [Part 1](/2019/22-1.linq)<br>[Part 2](/2019/22-2.linq) |
 | 23: Category Six                      | [Parts 1 & 2](/2019/23.linq)                           |
 | 24: Planet of Discord                 | [Part 1](/2019/24-1.linq)<br>[Part 2](/2019/24-2.linq) |
-| 25: Cryostasis                        | [Parts 1 & 2](/2019/25.linq)                           |
+| 25: Cryostasis                        | [Parts 1](/2019/25.linq)                               |
 
 ### 2020
 
@@ -194,7 +194,7 @@ The solutions below are neither elegant, performant nor particularly interesting
 | 19: Monster Messages        | [Parts 1 & 2](/2020/19.linq)                           |
 | 20: Jurassic Jigsaw         | [Parts 1 & 2](/2020/20.linq)                           |
 | 21: Allergen Assessment     | [Parts 1 & 2](/2020/21.linq)                           |
-| 22: Crab Combat             | TBC                                                    |
-| 23: Crab Cups               | TBC                                                    |
-| 24: Lobby Layout            | TBC                                                    |
-| 25: Combo Breaker           | TBC                                                    |
+| 22: Crab Combat             | [Parts 1 & 2](/2020/22.linq)                           |
+| 23: Crab Cups               | [Parts 1 & 2](/2020/23.linq)                           |
+| 24: Lobby Layout            | [Parts 1 & 2](/2020/24.linq)                           |
+| 25: Combo Breaker           | [Parts 1](/2020/25.linq)                               |
