@@ -1,4 +1,4 @@
 ﻿using aoc;
 
 Directory.SetCurrentDirectory(Path.Combine(Environment.CurrentDirectory, "../../.."));
-Day2.Process();
+Day3.Process();
